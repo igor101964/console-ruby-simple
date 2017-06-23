@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # console-ruby-simple
 
 Ruby Sample Application
@@ -6,12 +7,10 @@ Ruby Sample Application
 [![Contribute](http://www.appservgrid.com/images/devlogo.svg)](http://www.appservgrid.com/paw3)
 
 # Stack to use
-<<<<<<< HEAD
-FROM [Art2Dec](http://www.appservgrid.com/paw3)
->>>>>>> refs/remotes/console-ruby-simple/master
+From [Art2Dec](http://www.appservgrid.com/paw3)
 
 # How to run
 
 | #       | Description           | Command  |
-| :------------- |:-------------| :-----|
+| :------------- |:-------------| :--------------: |
 | 1      | Run | `cd ${current.project.path} && ruby main.rb` |
