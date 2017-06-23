@@ -3,11 +3,12 @@
 Ruby Sample Application
 
 # Developer Workspace
-[![Contribute](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](http://beta.codenvy.com/)
+[![Contribute](http://www.appservgrid.com/images/devlogo.svg)](http://www.appservgrid.com/paw3)
 
 # Stack to use
-
-FROM [codenvy/ubuntu_rails](https://hub.docker.com/r/codenvy/ubuntu_rails/)
+<<<<<<< HEAD
+FROM [Art2Dec](http://www.appservgrid.com/paw3)
+>>>>>>> refs/remotes/console-ruby-simple/master
 
 # How to run
 
